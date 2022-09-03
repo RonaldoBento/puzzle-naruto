@@ -17,4 +17,4 @@ _**Sliding Puzzle**_ é um quebra-cabeça de combinação deslizante que desafia
 
  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/pygame/blob/main/LICENSE) 
 
-Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado. Para rodar o jogo no seu computador ou em outro dispositivo é preciso ter instalado o Python 03. 
+Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado. Para rodar o jogo no seu computador ou em outro dispositivo é preciso ter instalado o Programa Portugol Studio. 
